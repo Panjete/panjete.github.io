@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>https://panjete.github.io/</loc>
-    <lastmod>2023-10-04T11:56:03+05:30</lastmod>
-  </url><url>
-    <loc>https://panjete.github.io/posts/mypost/</loc>
-    <lastmod>2023-10-04T11:56:03+05:30</lastmod>
-  </url><url>
-    <loc>https://panjete.github.io/posts/</loc>
-    <lastmod>2023-10-04T11:56:03+05:30</lastmod>
-  </url><url>
-    <loc>https://panjete.github.io/categories/</loc>
-  </url><url>
-    <loc>https://panjete.github.io/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>https://panjete.github.io/en/sitemap.xml</loc>
+    
+      <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://panjete.github.io/de/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://panjete.github.io/es/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>
